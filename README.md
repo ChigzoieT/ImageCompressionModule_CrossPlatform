@@ -1,0 +1,1 @@
+# ImageCompressionModule_CrossPlatform
