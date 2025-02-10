@@ -1,3 +1,3 @@
 # ImageCompressionModule_CrossPlatform
 
-A cross-platform C++ implementation leveraging the robust capabilities of FFmpeg to efficiently downsample images of any format into optimized JPEG outputs, ensuring a balance between quality and compression. The code is designed to be compiled and executed on any operating system, providing broad compatibility and flexibility.
+A cross-platform C++ implementation leveraging FFmpeg to efficiently downsample images into optimized JPEG format, ensuring a balance between compression and quality. This implementation supports configurable multi-threading, allowing users to set the number of threads for processing, optimizing performance based on system capabilities. Designed for seamless compilation and execution on any operating system, it offers broad compatibility and enhanced efficiency for diverse image processing applications.
